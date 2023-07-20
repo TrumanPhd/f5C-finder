@@ -7,6 +7,7 @@ Your can use f5C-finder for inference at [our webserver](http://f5c.m6aminer.cn/
 , submitted data will be kept confidential.
 ## Download and train on your GPU
 you can download this Repository，
-'''git clone https://github.com/NWAFU-LiuLab/f5C-finder.git
+'''shell
+git clone https://github.com/NWAFU-LiuLab/f5C-finder.git
  
 ##
