@@ -6,9 +6,8 @@ f5C-finder is the first neural network-based model for the identification on 5â€
 Your can use f5C-finder for inference at [our webserver](http://f5c.m6aminer.cn/)
 , submitted data will be kept confidential.
 
-## Env
-tensorflow
-sklearn
+## env
+make sure your tensorflow > 2.0
 
 ## Download and train on your GPU
 you can download this Repository with
