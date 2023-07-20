@@ -9,5 +9,6 @@ Your can use f5C-finder for inference at [our webserver](http://f5c.m6aminer.cn/
 you can download this Repository，
 ```shell
 git clone https://github.com/NWAFU-LiuLab/f5C-finder.git
- 
+```
+##Citation
 
