@@ -10,12 +10,15 @@ Your can use f5C-finder for inference at [our webserver](http://f5c.m6aminer.cn/
 ## env
 make sure your tensorflow > 2.0
 
-## Download and train on your GPU
-you can download this Repository with
+## Installation
+1.you can download this Repository with
 ```shell
 git clone https://github.com/NWAFU-LiuLab/f5C-finder.git
 ```
 or just download with Github GUI
+2.You can use our webserver GUI for inference, or train with your own dataset for f5C identification as follow:
+
+
 ## Citation
 It`s my pleasure if can use f5C-finder for f5C identification or improve the accuarcy on the provided f5C dataset, and please cite at 
 ## 
