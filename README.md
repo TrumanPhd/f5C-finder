@@ -28,7 +28,7 @@ feature_selection.py is the lib with different feature extraction methods
 
 ### deeplearning/
 
-Moddel_lib2.py include the main network-based models\
+Moddel_lib2.py include the main network-based models
 
 main_final.py is the final test of f5C_finder
 
