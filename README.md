@@ -11,20 +11,20 @@ Your can use f5C-finder for inference at [our webserver](http://f5c.m6aminer.cn/
 make sure your tensorflow > 2.0
 
 ## Installation
-1.you can download this Repository with
+You can download this Repository with
 ```shell
 git clone https://github.com/NWAFU-LiuLab/f5C-finder.git
 ```
 or just download with Github GUI
 
 ## Train on your own dataset
-2.You can use our webserver GUI for inference, or train with your own dataset for f5C identification as follow:
+### You can use our webserver GUI for inference, or train with your own dataset for f5C identification as follow:
 
 format dataset (the input dataset should be in .txt formation)
 
 the length of the sequences should must be 101
 
-3.change the path and add
+### change the path and add
 ```python 
 model.predict(seq_to_predict)
 ```
