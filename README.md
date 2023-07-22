@@ -16,7 +16,13 @@ make sure your tensorflow > 2.0
 git clone https://github.com/NWAFU-LiuLab/f5C-finder.git
 ```
 or just download with Github GUI
+
 2.You can use our webserver GUI for inference, or train with your own dataset for f5C identification as follow:
+
+format dataset (the input dataset should be in .txt formation)
+
+the length of the sequences should must be 101
+
 
 
 ## Citation
