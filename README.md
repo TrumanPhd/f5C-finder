@@ -10,7 +10,7 @@ Your can use f5C-finder for inference at [our webserver](http://f5c.m6aminer.cn/
 ## env
 make sure your tensorflow > 2.0
 
-## Installation
+## Installation and train on your own GPU
 1.you can download this Repository with
 ```shell
 git clone https://github.com/NWAFU-LiuLab/f5C-finder.git
@@ -23,7 +23,7 @@ format dataset (the input dataset should be in .txt formation)
 
 the length of the sequences should must be 101
 
-
+3.change the path and 
 
 ## Citation
 It`s my pleasure if can use f5C-finder for f5C identification or improve the accuarcy on the provided f5C dataset, and please cite at 
