@@ -24,7 +24,10 @@ format dataset (the input dataset should be in .txt formation)
 
 the length of the sequences should must be 101
 
-3.change the path and 
+3.change the path and add
+```python 
+model.predict(seq_to_predict)
+```
 
 ## Citation
 It`s my pleasure if can use f5C-finder for f5C identification or improve the accuarcy on the provided f5C dataset, and please cite at 
