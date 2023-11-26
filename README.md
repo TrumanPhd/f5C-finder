@@ -3,10 +3,11 @@
 f5C-finder is the first neural network-based model for the identification on 5‑Formylcytidine modifications on mRNA.
 This repository is the offical tensorflow vision of f5C-finder with all the codes used in the paper:  
 f5C-finder: combining language model with multi-head attention for predicting 5‑Formylcytidine modifications on mRNA
+![figure1](https://github.com/NWAFU-LiuLab/f5C-finder/assets/105758272/563a8305-6aee-4348-b0b2-0d66e1667c3d)
 ## 1. Webserver with GUI
 Your can use f5C-finder for inference at [our webserver](http://f5c.m6aminer.cn/)
 , submitted data will be kept confidential.
-![figure1](https://github.com/NWAFU-LiuLab/f5C-finder/assets/105758272/563a8305-6aee-4348-b0b2-0d66e1667c3d)
+
 
 ## 2. env
 make sure your tensorflow > 2.0
