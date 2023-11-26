@@ -18,22 +18,14 @@ git clone https://github.com/NWAFU-LiuLab/f5C-finder.git
 or just download with Github GUI
 
 ## 4. Source code
-### statisticallearning/
+### Ablation experiments
+Ablation.py and Ablation_evaluation.py are the scripts for Ablation experiments
 
-(the source code used in the feature subset selection)
+And for the Ablation results, please reference to the Ablation_exp.xlsx and Ablation_expRNN.xlsx
 
-classifier_selection.py include the 6 statistical classifier used in this paper
+### The structure of 2 LSTM-based models and 3 attention-based models
 
-feature_selection.py is the lib with different feature extraction methods
-
-### deeplearning/
-
-Moddel_lib2.py include the main network-based models
-
-main_final.py is the final test of f5C_finder
-
-and other python files are used for the results display
-
+please reference: 
 
 ## 5. Train on your own dataset
 ### You can use our webserver GUI for inference, or train with your own dataset for f5C identification as follow:
