@@ -18,28 +18,42 @@ git clone https://github.com/NWAFU-LiuLab/f5C-finder.git
 or just download with Github GUI
 
 ## 4. Source code
-### Ablation experiments
+### 1.Ablation experiments
 Ablation.py and Ablation_evaluation.py are the scripts for Ablation experiments
 
 And for the Ablation results, please reference to the Ablation_exp.xlsx and Ablation_expRNN.xlsx
 
-### The structure of 2 LSTM-based models and 3 attention-based models
+### 2.The structure of 2 LSTM-based models and 3 attention-based models
 
-please reference: 
+please reference: Model_lib2.py for LSTM-based models 
 
-## 5. Train on your own dataset
-### You can use our webserver GUI for inference, or train with your own dataset for f5C identification as follow:
+Fusion3feature.py, encoder1234_best.py Hash1_best.py for attention-based models
 
-format dataset (the input dataset should be in .txt formation)
+(the five encoder can be referenced from feature_selection.py utils.py and Hao_keras_toolkit.py)
 
-the length of the sequences should must be 101
+### 3. model training 10-fold cross-valiation and independent test
 
-### change the path and add
-```python 
-model.predict(seq_to_predict)
-```
+train.py and model_evaluation.py for model training and evaluation
 
-## 6. Citation
+the results can be referenced from metrics.xlsx
+
+### 4. RF SVM ADA the loser models VS f5C-finder
+
+for RF ADA
+
+can be referenced from ML.py ML_evaluation.py best_hyperparameters.xlsx
+
+for SVM
+
+can be referenced from SVM.py ML_evaluation.py SVMresults.xlsx
+
+### 5. Figure
+
+plot.py
+
+and other files are the saved parameters from the model training.
+
+## Citation
 It`s my pleasure if can use f5C-finder for f5C identification or improve the accuarcy on the provided f5C dataset, and please cite at 
 ## 
 
