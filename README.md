@@ -8,6 +8,7 @@ f5C-finder: combining language model with multi-head attention for predicting 5â
 Your can use f5C-finder for inference at [our webserver](http://f5c.m6aminer.cn/)
 , submitted data will be kept confidential.
 
+![server](https://github.com/NWAFU-LiuLab/f5C-finder/assets/105758272/874aa0ed-f5b7-4d0e-b7d4-c206cdc90f39)
 
 ## 2. env
 make sure your tensorflow > 2.0
