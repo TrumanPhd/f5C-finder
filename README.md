@@ -52,7 +52,6 @@ can be referenced from SVM.py ML_evaluation.py SVMresults.xlsx
 
 ### 5. Figure
 
-
 plot.py
 
 and other files are the saved parameters from the model training.
