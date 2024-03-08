@@ -59,9 +59,6 @@ and other files are the saved parameters from the model training.
 ### 6. Dataset
 In the dataset, we provide the data trained and evaluated from all the models, to make it more usable we replace 'U' to 'T'，as shown in the dataset.
 
-### 7. Comparation
-As the first model for the identification of f5C Sites, we compared our method with three different models from m6Am, m7G and m6C, the scripts can be referenced from the 3 folder.
-
 ## Citation
 It`s my pleasure if can use f5C-finder for f5C identification or improve the accuarcy on the provided f5C dataset, and please cite at 
 ## 
