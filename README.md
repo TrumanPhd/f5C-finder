@@ -16,7 +16,7 @@ make sure your tensorflow > 2.0
 ## 3. Installation
 You can download this Repository with
 ```shell
-git clone https://github.com/NWAFU-LiuLab/f5C-finder.git
+git clone https://github.com/TrumanPhd/f5C-finder.git
 ```
 or just download with Github GUI
 
